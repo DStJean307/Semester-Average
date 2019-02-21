@@ -1,0 +1,12 @@
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\bin\Debug\Semester Average.exe.config
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\bin\Debug\Semester Average.exe
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\bin\Debug\Semester Average.pdb
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\bin\Debug\Semester Average.xml
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\obj\Debug\Semester Average.vbprojAssemblyReference.cache
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\obj\Debug\Semester_Average.frmSemesterAverage.resources
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\obj\Debug\Semester_Average.Resources.resources
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\obj\Debug\Semester Average.vbproj.GenerateResource.cache
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\obj\Debug\Semester Average.vbproj.CoreCompileInputs.cache
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\obj\Debug\Semester Average.exe
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\obj\Debug\Semester Average.xml
+C:\Users\Sk1nk\source\repos\Semester Average\Semester Average\obj\Debug\Semester Average.pdb
